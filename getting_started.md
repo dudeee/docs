@@ -1,3 +1,7 @@
 # Getting Started
 
  Dude uses [`slackbot-api`](https://github.com/mdibaiee/slackbot-api) under the hood, and if you know `slackbot-api`, you already know how to use Dude, it's recommended you read [`slackbot-api`'s documentation](https://mdibaiee.gitbooks.io/slackbot-api/content/) first.
+ 
+## Initializing
+
+ First you have to create a Slack Bot in your Team, to do so navigate to **[Custom Integrations](https://pichak.slack.com/apps/manage/custom-integrations)**, **Bots** and click **Add Configuration**. Enter a name (Dude!), and in the next page you get your **API Token**. You can also choose an image for your bot ([Dude's avatar!](https://raw.githubusercontent.com/dudeee/dude/master/avatar.png)).
