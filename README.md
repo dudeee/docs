@@ -15,6 +15,8 @@
  * Schedule: Automate your tasks using Dude's [scheduler](https://github.com/node-schedule/node-schedule).
  * Dashboard: Want to monitor your bot? Send and receive messages interactively? Chat as your bot? We have an awesome dashboard just for that.
  * and more...!
+
+
 # Tested
  We use Dude in our company and treat it as an important product.
  
