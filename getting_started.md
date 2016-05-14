@@ -17,6 +17,6 @@
  
  cp config-sample.js config.js
  
- export DUDE_SLACK_TOKEN='YOUR_TOKEN'
+ export DUDE_SLACK_TOKEN='YOUR_TOKEN' # by default the API token is read from ENV, see your config file
  npm start
  ```
