@@ -8,5 +8,3 @@
 # Plugins
  We're proud of our plugin ecosystem, plugins can be easily developed and published to `npm`, installed and configured.
  
-# Slack API
- We use and love Slack, we think Slack is a good platform to build bots on.
