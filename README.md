@@ -23,4 +23,4 @@
  Believe in unit tests? You believe in us. The platform and most of the plugins we develop have a test coverage above 85%.
  
 # Internationalization
- Speaking Chinese, French or Spanish? We have you covered! Dude has the ability to change language, and we would be grateful if you contribute and translate dude to your language!
+ Speaking Chinese, Russian or Spanish? We have you covered! Dude has the ability to change language, and we would be grateful if you contribute and translate dude to your language!
