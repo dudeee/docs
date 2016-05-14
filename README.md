@@ -9,7 +9,12 @@
  We're proud of our plugin ecosystem, plugins can be easily developed and published to `npm`, installed and configured.
  
 # Tools
+ Dude provides the tools and utilities you might need to create fabulous bots, here are some of them:
  
+ * Pocket: You can use Dude's pocket as storage: a [`levelDB`](https://github.com/Level/levelup) database, as simple as a pocket, not a backpack.
+ * Schedule: Automate your tasks using Dude's [scheduler](https://github.com/node-schedule/node-schedule).
+ * Dashboard: Want to monitor your bot? Send and receive messages interactively? Chat as your bot? We have an awesome dashboard just for that.
+ * 
 # Tested
  We use Dude in our company and treat it as an important product.
  
