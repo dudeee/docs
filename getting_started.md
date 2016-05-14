@@ -11,6 +11,9 @@
  ```bash
  git clone git@github.com:dudeee/dude
  cd dude
+ npm install
+ grunt
+ 
  cp config-sample.js config.js
  export DUDE_SLACK_TOKEN='YOUR_TOKEN'
  npm start
