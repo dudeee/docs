@@ -6,10 +6,12 @@
 
 
 # Simplicity
- 
+ We believe 
 
 # Plugins
  We're proud of our plugin ecosystem, plugins can be easily developed and published to `npm`, installed and configured.
+ 
+# Tools
  
 # Tested
  We use Dude in our company and treat it as an important product.
