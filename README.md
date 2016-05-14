@@ -1,6 +1,6 @@
 # Dude
 
- Dude is an extensible framework for easily building smart bots.
+ Dude is an extensible framework for building smart bots with ease.
  
  Creating bots has never been this fun, a set of awesome tools and a plugin ecosystem make sure you don't have to struggle with development of your next bot.
 
