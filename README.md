@@ -1,3 +1,3 @@
 # Dude
 
- Dude is a platform for building extensible and smart bots.
+ Dude is a platform for building extensible and smart bots. 
