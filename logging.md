@@ -11,3 +11,5 @@ bot.log.error('[quote] API rate limit reached!');
 bot.log.warn('[permissions]', `Did not allow ${user} to do ${action}`);
 bot.log.silly('[permissions]', `Checking ${user} for eligibility to issue command ${command}`);
 ```
+
+It's a good practice to tag your plugin/task name before the log to increase readability
