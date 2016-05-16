@@ -29,6 +29,48 @@
  
  You can either create a plugin or put a file in the `src/tasks` directory to get it running. You can also use `dude` as a module in your other projects.
  
+ Examples:
  
+ ```javascript
+ // src/tasks/warnings.js
+ 
+ export default bot => {
+   bot.hear(/too much noise/i, message => {
+     bot.sendMessage('general', '@everyone please talk more quietly. Thank you.');
+   });
+ }
+ 
+ // plugins work exactly the same way, we will explore them in later chapters
+ ```
+ 
+ Using as a module:
+ 
+ ```bash
+ mkdir bot
+ cd bot
+ npm init -y
+ npm install dudeee
+ 
+ vim index.js
+ ```
+ 
+ And write some code that looks like this:
+ 
+```javascript
+var dude = require('dudeee');
+
+var bot = dude({ token: process.env.DUDE_SLACK_TOKEN });
+
+bot.listen(/how are you doing?/i, message => {
+  message.reply('Fine!');
+});
+```
+
+And then,
+
+```bash
+export DUDE_SLACK_TOKEN='YOUR API TOKEN';
+node index.js
+```
  
  In the next chapter, we will discover pocket, schedule and other tools and in the end, we will develop a some plugins.
