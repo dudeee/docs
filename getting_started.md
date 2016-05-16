@@ -29,4 +29,6 @@
  
  You can either create a plugin or put a file in the `src/tasks` directory to get it running. You can also use `dude` as a module in your other projects.
  
+ 
+ 
  In the next chapter, we will discover pocket, schedule and other tools and in the end, we will develop a some plugins.
