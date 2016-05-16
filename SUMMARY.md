@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting_started.md)
-* Tools
+* [Tools](tools.md)
    * Pocket
 
