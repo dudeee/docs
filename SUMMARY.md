@@ -5,4 +5,5 @@
 * [Tools](tools.md)
    * [Pocket](pocket.md)
    * [Schedule](schedule.md)
+   * Logging
 
