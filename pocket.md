@@ -7,7 +7,7 @@
   Working with Pocket is very simple:
   
   ```javascript
-  bot.command('configure server <key> [value]', async message => {
+  bot.command('configure server <char> [char]', async message => {
     const [key, value] = message.match;
     
     if (value) {
