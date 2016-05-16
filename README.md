@@ -24,3 +24,5 @@
  
 # Internationalization
  Speaking Chinese, Russian or Spanish? We have you covered! Dude has the ability to change language, and we would be grateful if you contribute and translate dude to your language!
+ 
+ 
