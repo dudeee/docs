@@ -73,4 +73,4 @@ export DUDE_SLACK_TOKEN='YOUR API TOKEN';
 node index.js
 ```
  
- In the next chapter, we will discover pocket, schedule and other tools and in the end, we will develop a some plugins.
+ In the next chapter, we will discover pocket, schedule and other tools and in the end, we will create a plugin for Dude.
