@@ -1,3 +1,3 @@
 # Pocket
 
-  Pocket is 
+  Pocket is a simple database for your bot, it's not a backpack, it's as simple as a pocket.
