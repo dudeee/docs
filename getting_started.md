@@ -22,5 +22,3 @@
  ```
  
  By default the API Token is read from ENV (and that's a good practice), see the `config.js` file.
- 
- 
