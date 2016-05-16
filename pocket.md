@@ -23,4 +23,4 @@
   
   ![Me: configure server threshold 10, Bot: Saved threshold: 10 to database, Me: configure server threshold, Bot: 10](Screen Shot 2016-05-16 at 12.52.27.png)
   
-  
+ Under the hood, we're using [`levelup`](https://github.com/Level/levelup) with a `leveldown` backend, saved to `database` file inside dude's directory.
