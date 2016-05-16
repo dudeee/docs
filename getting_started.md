@@ -19,9 +19,8 @@
  
  export DUDE_SLACK_TOKEN='YOUR_TOKEN'
  npm start
- ```
- 
- By default the API Token is read from ENV (and that's a good practice), see the `config.js` file.
+ ``` 
+ *By default the API Token is read from ENV (and that's a good practice), see the `config.js` file.*
  
  Ta-daa! Your bot is now alive!
  
