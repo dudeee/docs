@@ -23,7 +23,7 @@
  
  By default the API Token is read from ENV (and that's a good practice), see the `config.js` file.
  
- Ta-daa! Your bot is now alive.
+ Ta-daa! Your bot is now alive!
  
  
  ![Greet your bot: Hello!](Screen Shot 2016-05-16 at 10.19.22.png)
