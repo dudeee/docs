@@ -27,4 +27,4 @@
  
  ![Greet your bot: Hello!](Screen Shot 2016-05-16 at 10.19.22.png)
  
- 
+ In the next chapter, we will discover pocket, schedule and other tools and in the end, we will develop a some plugins.
