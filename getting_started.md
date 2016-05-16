@@ -27,6 +27,6 @@
  
  ![Greet your bot: Hello!](Screen Shot 2016-05-16 at 10.19.22.png)
  
- You can either create a plugin or put a file in the `tasks` directory to get it running.
+ You can either create a plugin or put a file in the `src/tasks` directory to get it running.
  
  In the next chapter, we will discover pocket, schedule and other tools and in the end, we will develop a some plugins.
