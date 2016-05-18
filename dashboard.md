@@ -15,3 +15,7 @@
  ```bash
  npm run dashboard
  ```
+ 
+ ![npm start || npm run dashboard](Screen Shot 2016-05-18 at 11.27.26.png)
+ 
+ 
