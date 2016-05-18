@@ -7,6 +7,6 @@
    * [Schedule](schedule.md)
    * [Logging](logging.md)
    * [Internationalization](internationalization.md)
-   * Dashboard
+   * [Dashboard](dashboard.md)
 * [Style Guide](style_guide.md)
 
