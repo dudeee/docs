@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Installing Dude
+   * [Installing Dude](installing_dude.md)
    * Developing Dude
 * [Getting Started](getting_started.md)
 * [Tools](tools.md)
