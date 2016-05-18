@@ -23,3 +23,5 @@ Example:
 ```
 
 This is [`dude-quote`](https://github.com/dudeee/dude-quote), a plugin for sending quotes to your Slack team.
+
+For more information see [`node-schedule`](https://github.com/node-schedule/node-schedule).
