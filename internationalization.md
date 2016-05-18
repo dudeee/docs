@@ -11,3 +11,7 @@
    await bot.i18n.load(path.join(__dirname, '../locales/'));
  }
  ```
+ 
+ Your folder must follow the structure specified by [`i18next-node-fs-backend`](https://github.com/i18next/i18next-node-fs-backend).
+ 
+ For more information see [`i18next`](http://i18next.com/).
