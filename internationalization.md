@@ -18,7 +18,7 @@
  
  ## bot.t
  
- To read localized strings, you use `bot.t` with 
+ To read localized strings, you use `bot.t`, as explained in [i18next tutorial](http://i18next.com/translate/).
  
  ## Substitutions
  
