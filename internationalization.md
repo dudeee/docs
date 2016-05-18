@@ -13,5 +13,7 @@
  ```
  
  Your folder must follow the structure specified by [`i18next-node-fs-backend`](https://github.com/i18next/i18next-node-fs-backend).
+
+ Please follow the Dude Style Guide in your JSON keys.
  
  For more information see [`i18next`](http://i18next.com/).
