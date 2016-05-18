@@ -29,6 +29,9 @@
  The `%username%` is a variable which is replaced by bot when using this string. Using variables you can make sure the localization process is as flexible as possible.
  
  To use variables in your code, you should use `bot.t` like this:
-  
+
+```javascript
+
+```
  
  For more information see [`i18next`](http://i18next.com/).
