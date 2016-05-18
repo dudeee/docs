@@ -29,4 +29,4 @@
 
  There are two ways to install Dude. You can either [grab the code and run it on your own servers](getting_started.md), or you can let us handle it for you.
  
- In case you want to us to handle the maintenance for you and provide you with a panel to control your bot, head over to our [pricing page](http://dude.pichak.co/pricing/) for more details.
+ In case you want to us to handle the maintenance for you and provide you with a panel to control your bot, head over to our [pricing page](http://dude.pichak.co/pricing/) for more details. Using this panel you can install/remove plugins and configure your bot with ease.
