@@ -38,3 +38,5 @@
    }
  });
  ```
+ 
+ For more information see [`levelup`](https://github.com/Level/levelup) and [`leveldown`](https://github.com/level/leveldown).
