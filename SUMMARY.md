@@ -6,5 +6,5 @@
    * [Pocket](pocket.md)
    * [Schedule](schedule.md)
    * [Logging](logging.md)
-   * Internationalization
+   * [Internationalization](internationalization.md)
 
