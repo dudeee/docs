@@ -20,3 +20,5 @@ _This feature is still under development and might be a little buggy, please hel
  ![npm start || npm run dashboard](Screen Shot 2016-05-18 at 11.27.26.png)
  
 You can access different tabs (logs, stats, message, chat) and quit by un-focusing (press esc) and typing the first letter of the tab (e.g. `s`).
+
+![Stats](Screen Shot 2016-05-18 at 11.30.26.png)
