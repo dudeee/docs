@@ -18,6 +18,8 @@
  
  ## Substitutions
  
+ If you take a look at the files, you might see strings like this:
+ 
  
  
  For more information see [`i18next`](http://i18next.com/).
