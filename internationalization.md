@@ -16,6 +16,10 @@
 
  Please follow the Dude Style Guide in your JSON keys.
  
+ ## bot.t
+ 
+ To get localized strings, 
+ 
  ## Substitutions
  
  If you take a look at the files, you might see strings like this:
