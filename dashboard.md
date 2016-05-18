@@ -5,3 +5,5 @@
  The Dude dashboard gives you the ability to chat (send and receive simple messages) and send messages with custom parameters (attachments, etc). You can also read the logs and monitor memory and cpu usage of your bot, along with error/rejection rate.
  
  ![Dashboard - Chat](Screen Shot 2016-05-18 at 11.22.49.png)
+ 
+ 
