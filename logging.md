@@ -29,3 +29,5 @@ You can configure `winston` using `bot.config.log`:
 
 By default, winston is configured to write the logs in a file called `dude.log`.
 Console logging is disabled if you wrap `dude` in another node process (i.e. `require('dudeee')`), but you can enable it by setting `console: true`.
+
+For more details see [`winston`](https://github.com/winstonjs/winston#logging-levels).
