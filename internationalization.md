@@ -31,7 +31,7 @@
  To use variables in your code, you should use `bot.t` like this:
 
 ```javascript
-
+bot.t('notfound', { username: 'mahdi' });
 ```
  
  For more information see [`i18next`](http://i18next.com/).
