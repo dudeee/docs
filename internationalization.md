@@ -18,7 +18,7 @@
  
  ## bot.t
  
- To get localized strings, 
+ To read localized strings, you use `bot.t` with 
  
  ## Substitutions
  
