@@ -26,6 +26,6 @@
  }
  ```
  
- The `%username%` is a variable which is replaced by bot when using this string. 
+ The `%username%` is a variable which is replaced by bot when using this string.  
  
  For more information see [`i18next`](http://i18next.com/).
