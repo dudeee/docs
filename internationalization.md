@@ -22,8 +22,10 @@
  
  ```json
  {
-   "error": "error loading %s: %s"
+   "notfound": "Could not find user *%username%*."
  }
- ````
+ ```
+ 
+ The `%username%` is a variable which is replaced by bot when using this string. 
  
  For more information see [`i18next`](http://i18next.com/).
