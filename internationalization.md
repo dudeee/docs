@@ -16,4 +16,6 @@
 
  Please follow the Dude Style Guide in your JSON keys.
  
+ # Substitutions
+ 
  For more information see [`i18next`](http://i18next.com/).
