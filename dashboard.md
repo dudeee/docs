@@ -6,4 +6,4 @@
  
  ![Dashboard - Chat](Screen Shot 2016-05-18 at 11.22.49.png)
  
- The dashboard uses a messaging channel to communicate with your Dude channel.
+ The dashboard uses a messaging channel to communicate with your Dude channel. In order to use the dashboard you have to first run your dude process.
