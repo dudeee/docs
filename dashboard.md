@@ -1,4 +1,5 @@
 # Dashboard
+_This feature is still under development and might be a little buggy, please help us by reporting the issues_
 
  You will feel the need to send messages using your bot (He announces his own changes in our team!) and also monitor it's activity and received messages.
  
@@ -18,4 +19,4 @@
  
  ![npm start || npm run dashboard](Screen Shot 2016-05-18 at 11.27.26.png)
  
- 
+ The d
