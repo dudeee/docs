@@ -4,6 +4,10 @@
  
  You can find our [`locales` folder](https://github.com/dudeee/dude/tree/master/locales) in the repository and contribute by translating the strings from English to your language.
  
- Plugins can also provide localized strings by creating their own `locales` folder and loading it. See the example below:
+ Plugins can also provide localized strings by creating their own `locales` folder and loading it. To do so, you have to load your locales folder in your plugin:
  
- 
+ ```javascript
+ export default async bot => {
+   await bot.i18n.load(path.join(__dirname, '../locales/'));
+ }
+ ```
