@@ -21,7 +21,7 @@
  To read localized strings, you use `bot.t`, as explained in [i18next tutorial](http://i18next.com/translate/).
  
  ```javascript
-  bot.t('main.ready');
+  message.reply(bot.t('main.ready'));
  ```
  
  ## Substitutions
