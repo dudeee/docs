@@ -7,5 +7,5 @@
    * [Schedule](schedule.md)
    * [Logging](logging.md)
    * [Internationalization](internationalization.md)
-* Style Guide
+* [Style Guide](style_guide.md)
 
