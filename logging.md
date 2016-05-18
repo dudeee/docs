@@ -13,3 +13,19 @@ bot.log.silly('[permissions]', `Checking ${user} for eligibility to issue comman
 ```
 
 It's a good practice to tag your plugin/task name before the log to increase readability.
+
+## Configuration
+You can configure `winston` using `bot.config.log`:
+
+```javascript
+{
+  log: {
+    level: process.env.DUDE_LOG_LEVEL,
+    file: true,
+    console: true
+  }
+}
+```
+
+By default, winston is configured to write the logs in a file called `dude.log`.
+Console logging is disabled if you wrap `dude` in another node process (i.e. `require('dudeee')`), but you can enable it by setting `console: true`.
