@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Installing Dude
 * [Getting Started](getting_started.md)
 * [Tools](tools.md)
    * [Pocket](pocket.md)
